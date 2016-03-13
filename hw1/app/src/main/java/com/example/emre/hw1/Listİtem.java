@@ -9,6 +9,7 @@ public class Listİtem {
     boolean check;
     String product;
     double price;
+    int[] quantity={1,2,3,4,5,6,7,8,9,10};
     public Listİtem(int image, boolean check, String product, double price) {
         this.image = image;
         this.check = check;
